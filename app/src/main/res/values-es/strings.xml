@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+	<string name="app_name">Notatificaciones</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="action_close">Salir</string>
+    <string name="action_mynote">Mis notatificaciones</string>
+    <string name="action_help">Ayuda</string>
+    <string name="action_contact">Contacto</string>
+    
+    <string name="welcome">¡Bienvenido a notatificaciones! Desde esta aplicación, podrás crear una notificación personalizada a modo de nota. ¡La manera más rápida y cómoda!</string>
+    
+    <string name="editNotifTitle">Título de la notatificación</string>
+    <string name="editNotif">Contenido de la notatificación</string>
+    
+    <string name="persist">¿Es persistente?</string>
+    <string name="button_setNotif">Crear notatificación</string>
+    
+    <string name="madeBy">App creada por Lonami - ©LonamiWebs 2013</string>
+    
+    <string name="notifCreated">Notatificación creada con éxito</string>
+    
+    <string name="title_activity_notif_manager">Mis notatificaciones</string>
+    
+    <string name="gallery">Elegir imagen de la galería</string>
+    
+    <string name="title_activity_settings">Ajustes</string>
+    <string name="visitlw">Visitar página web del autor</string>
+    
+    <string name="autoCancel">¿Autocancelar?</string>
+    
+    <string name="remPers">Eliminar notificaciones persistentes</string>
+    
+    <string name="setPers">¿Estás seguro? Para eliminar estas notatificaciones, deberás detener la aplicación o eliminarlas todas desde ajustes.</string>
+    <string name="setPersTitle">¡Cuidado!</string>
+    <string name="yeh">Sí, estoy seguro</string>
+    <string name="nay">No, cancelar</string>
+    
+    <string name="checkShowAlways">¿Mostrar siempre en la barra de notificaciones?</string>
+
+    <string name="remNot">¿Estás seguro? ¡Esto eliminará todas las notatificaciones que hayas creado de la barra de notificaciones!</string>
+
+    <string name="showNotif">Mostrar notatificación</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Eliminar</string>
+    <string name="accept">Aceptar</string>
+    <string name="hideNotif">Ocultar notatificación</string>
+
+    <!-- pfk stands for preference file key -->
+    <string name="pfk_sitbTitle">Crear notatificación</string>
+    <string name="pfk_sitbContent">¡Crear una notatificación ahora!</string>
+    <string name="title_activity_dialog">Icono de la notificación</string>
+    <string name="title_activity_edit_notif">Editar notetificación</string>
+    <string name="imageDesc">Fondo</string>
+    <string name="imageNotif">Icono de la notificación</string>
+    <string name="deleteAll">Eliminar todas</string>
+    <string name="hideAll">Ocultar todas</string>
+    <string name="showAll">Mostrar todas</string>
+
+</resources>
